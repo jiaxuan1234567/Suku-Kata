@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jom Belajar Suku Kata — Mini Game
 
 A visual Bahasa Melayu syllable-combination game for young children.
@@ -220,3 +221,7 @@ public/
     ├── syllables/
     └── words/
 ```
+=======
+# Suku-Kata
+A Suku Kata Games for Children
+>>>>>>> f26749f4cea955738afe2633654e0deb08d1874d
